@@ -40,13 +40,13 @@ This model represents an extension spring with hooks at both ends.
 ## 📷 Model Views
 
 ### 🔹 Front View
-![Iso](./Front%20view.png)
+![Front](./Front%20view.png)
 
 ### 🔹 Left View
-![Front](./Left%20View.png)
+![Left](./Left%20View.png)
 
-### 🔹 Side View
-![Side](./side-view.png)
+### 🔹 SW Isometric View
+![SW Isometric](./SW%20Isometric.png)
 
 ---
 
