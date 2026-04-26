@@ -1,6 +1,6 @@
 # 🌀 Helical Spring – AutoCAD 3D Design
 
-![Preview](./isometric-view.png)
+![Preview](./HELICAL%20SPRING%20.dwg)
 
 This project presents a 3D CAD model of a **Helical Spring** designed using AutoCAD. It demonstrates spring geometry, coil structure, and mechanical design basics.
 
